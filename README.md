@@ -1,4 +1,7 @@
 # sh-repl
+
+[![build status](https://github.com/paasim/sh-repl/workflows/check/badge.svg)](https://github.com/paasim/sh-repl/actions)
+
 A simple tool for printing and evaluating shell-oneliners. Might be useful for rendering shell scripts to markdown (with the command printed before the output).
 
 
